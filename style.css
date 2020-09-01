@@ -1,0 +1,35 @@
+header{
+	background: #657490 url("https://res.cloudinary.com/lastborn/image/upload/v1598967040/road-1072823__340_l2aqcu.jpg") no-repeat;
+	background-size: 100%;
+	padding: 20px;
+}
+
+nav{
+	text-align: center;
+
+}
+
+nav a{
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+  font-size: 35px;
+}
+
+table, th, td{
+  border: 1px solid orange;
+  border-collapse: collapse;
+}
+
+th{
+  background-color: grey;
+  color: #ffffff;
+}
+td{
+  text-align: center;
+  border-collapse: collapse;
+}
